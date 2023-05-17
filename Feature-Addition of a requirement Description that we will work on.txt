@@ -1,0 +1,20 @@
+Description for the feature that we will start working on it:
+
+
+Instructor Management: One potential modification to this feature could be to add the ability to track instructor performance metrics, such as student evaluations or course completion rates. This could help administrators to identify high-performing instructors and provide feedback to instructors who may need additional support.
+
+
+Addition of a new Requirement:
+
+
+We may need to move the Database package from inside the Documentation package to the 
+main packages beside JavaSource,WebContent,Documentation,... etc
+
+as it provides more readability in identifying the source code parts/packages of the system.
+
+
+
+Note -> we may have features/addition of requirements in the backlog section of the
+     ticketing system as an alternatives to the main feature we need to add
+    in case our to-do feature is hard to implement or we faced any difficulties in providing it
+        in the system.
